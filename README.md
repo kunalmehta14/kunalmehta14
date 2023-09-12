@@ -5,4 +5,4 @@
 
 + In the realm of databases, I'm well-versed in managing 🗄️ **MySQL, MongoDB, SQLite, and SQL Server**, ensuring data integrity and accessibility. 
 
-🚀 As an avid learner, I'm always excited to take on new challenges and explore the latest technologies. My GitHub profile is a testament to my journey, showcasing a diverse range of projects and contributions!
+🚀 As an avid learner, I'm always excited to take on new challenges and explore the latest technologies!
