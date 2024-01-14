@@ -3,6 +3,8 @@
 
 + On the software development front, I have 2 years of experience working with 💻 **JavaScript and Python**. I've delved into a variety of frameworks, including *ReactJS, ElectronJS, Django and Flask*. My coding skills aren't just about building applications; I've also utilized them to create 🤖 automation tools, streamlining IT operations for efficiency. 
 
-+ In the realm of databases, I'm well-versed in managing 🗄️ **MySQL, MongoDB, SQLite, and SQL Server**, ensuring data integrity and accessibility. 
++ In the realm of databases, I'm experienced in working with 🗄️ **MySQL, MongoDB, SQLite, and SQL Server**, and ensuring the data integrity and accessibility. 
+
++ Lately I have been working on [learning machine learning](https://github.com/kunalmehta14/MachineLearning_Fundamentals.git) and the related aspects to it using Real Estate dataset collected using [webscraping](https://github.com/kunalmehta14/Ontario-RealEstate-DataPipeline.git) with python.
 
 🚀 As an avid learner, I'm always excited to take on new challenges and explore the latest technologies!
