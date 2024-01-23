@@ -5,6 +5,6 @@
 
 + In the realm of databases, I'm experienced in working with 🗄️ **MySQL, MongoDB, SQLite, and SQL Server**, and ensuring the data integrity and accessibility. 
 
-+ Lately, I have been working on learning [machine learning](https://github.com/kunalmehta14/MachineLearning_Fundamentals.git) and its related aspects using a Real Estate dataset collected through [web scraping](https://github.com/kunalmehta14/Ontario-RealEstate-DataPipeline.git) with Python.
++ Lately, I have been working on learning [machine learning](https://github.com/kunalmehta14/MachineLearning_Fundamentals.git) and its related aspects using a Real Estate dataset collected through [web scraping](https://github.com/kunalmehta14/RealEstate-DataPipeline.git) with Python.
 
 🚀 As an avid learner, I'm always excited to take on new challenges and explore the latest technologies!
